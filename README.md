@@ -2,16 +2,16 @@
 ##
 🎓 I'm a CS student at the Kuban State University :)
 
-⚡ Interested in coding, AI, web design, gaming, music, anime/manga.
+⚡ Interested in coding, AI, graphic design, gaming, anime, music
 
 😸 Cats are my favorite animals :3
 
 ##
-👨‍💻 Programming skills: C++, C#, WinForms, Python, PyQt, HTML, CSS, JS.
+👨‍💻 Programming skills: C++, C#, Java, Kotlin, Python, PyQt, HTML + CSS + JS, Dart + Flutter.
 
-💻 Other: Adobe Photoshop, Premiere Pro, After Effects, AutoCAD, Linux, Google Colab, etc.
+💻 Other: Photoshop, Linux, etc.
 
-📙 Learning / will learn: Node.js, Flutter, OpenGL, AI stuff (e.g., pytorch).
+📙 Learning / want to learn: Backend (Node.js, Go), Graphics (OpenGL ?), Neural Networks, 3D Design (Blender).
 ## Contacts
 Website: _soon_
 
