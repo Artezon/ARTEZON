@@ -19,6 +19,9 @@
 <a href="https://github.com/Artezon?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/artezon?style=for-the-badge&logo=github&labelColor=0CB32B&color=0ECC31" alt="Total stars on GitHub" title="Total stars on GitHub"/></a>
 
 ### ✨ My skills ✨
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,typescript,vuejs,pinia,nodejs,vite,golang,fastapi,java,kotlin,cs,postgresql,sqlite,flutter,qt,linux,photoshop&theme=dark&perline=7)]()
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Chtml%2Ccss%2Cjavascript%2Ctypescript%2Cvuejs%2Cpinia%2Cnodejs%2Cvite%2Cgolang%2Cfastapi%2Cjava%2Ckotlin%2Ccs%2Cpostgresql%2Csqlite%2Cflutter%2Cqt%2Clinux%2Cphotoshop&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python%2Chtml%2Ccss%2Cjavascript%2Ctypescript%2Cvuejs%2Cpinia%2Cnodejs%2Cvite%2Cgolang%2Cfastapi%2Cjava%2Ckotlin%2Ccs%2Cpostgresql%2Csqlite%2Cflutter%2Cqt%2Clinux%2Cphotoshop&theme=light&perline=7" alt="My skills"/>
+</picture>
 
 </div>
