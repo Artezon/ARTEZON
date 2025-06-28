@@ -15,7 +15,7 @@
 <a href="https://t.me/artezon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="@artezon"/></a>
 <a href="https://steamcommunity.com/id/artez0n"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="artez0n"/></a>
 <a href="https://artezon.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" title="artezon.bsky.social"/></a><br>
-<a href="#"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabacus.jasoncameron.dev%2Fhit%2Fartezon%2Fgithub_profile&query=value&style=for-the-badge&label=Profile%20views&labelColor=E69010&color=FFA213&cacheSeconds=1" alt="GitHub profile views" title="GitHub profile views since 2025/06/28"/></a>
+<a href="#"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabacus.jasoncameron.dev%2Fhit%2Fartezon%2Fgithub_profile_views&query=value&style=for-the-badge&label=Profile%20views&labelColor=E69010&color=FFA213&cacheSeconds=1" alt="GitHub profile views" title="GitHub profile views since 2025/06/28"/></a>
 <a href="https://github.com/Artezon?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/artezon?style=for-the-badge&labelColor=0CB32B&color=0ECC31" alt="Total stars on GitHub" title="Total stars on GitHub"/></a>
 
 ### ✨ My skills ✨
